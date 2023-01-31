@@ -1,1 +1,1 @@
-# qr-qode-design
+# qr-code-design
